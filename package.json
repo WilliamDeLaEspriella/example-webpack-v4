@@ -4,7 +4,9 @@
   "description": "exemplo webpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "build:external": "webpack --config ./external/webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   "homepage": "https://github.com/WilliamDeLaEspriella/exemplo-webpack-v4#readme",
   "dependencies": {},
   "devDependencies": {
-    "webpack": "^4.39.2"
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
   }
 }
