@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/WilliamDeLaEspriella/exemplo-webpack-v4/issues"
   },
-  "homepage": "https://github.com/WilliamDeLaEspriella/exemplo-webpack-v4#readme"
+  "homepage": "https://github.com/WilliamDeLaEspriella/exemplo-webpack-v4#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.39.2"
+  }
 }
