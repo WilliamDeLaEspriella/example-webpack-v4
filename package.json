@@ -1,0 +1,19 @@
+{
+  "name": "webpack-4",
+  "version": "1.0.0",
+  "description": "exemplo webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WilliamDeLaEspriella/exemplo-webpack-v4.git"
+  },
+  "author": "William de la Espriella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliamDeLaEspriella/exemplo-webpack-v4/issues"
+  },
+  "homepage": "https://github.com/WilliamDeLaEspriella/exemplo-webpack-v4#readme"
+}
